@@ -1,3 +1,8 @@
 *.pt
 .ipynb_checkpoints/*
 *.txt
+.kaggle/*
+*.zip
+*.npy
+*.pkl
+*.tsv
